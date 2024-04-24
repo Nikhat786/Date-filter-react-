@@ -1,0 +1,40 @@
+.date-filter-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .date-filter-select {
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .custom-dates {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .date-input {
+    padding: 8px;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .apply-button {
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .apply-button:hover {
+    background-color: #0056b3;
+  }
+  
